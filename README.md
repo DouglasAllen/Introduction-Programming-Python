@@ -10,3 +10,7 @@ All of the slides, answer files and other solutions used during the Introduction
 * https://microsoft.github.io/PTVS/
 
 * https://github.com/Microsoft/PTVS/wiki/PTVS-Installation
+
+* https://learnpythonthehardway.org/book/
+
+*
