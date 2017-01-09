@@ -13,4 +13,4 @@ All of the slides, answer files and other solutions used during the Introduction
 
 * https://learnpythonthehardway.org/book/
 
-*
+* http://inventwithpython.com/bookshelf/
